@@ -5,5 +5,5 @@
 2. copy `Seeder/LocationSeeder.php` to `database/Seeder`.
 3. run `php artisan db:seed --class=LocationSeeder`
 
-## Special Thanks to atqnp
-All the data get from [atqnp](https://github.com/atqnp/postcode-malaysia) for more info please visit [atqnp](https://github.com/atqnp/postcode-malaysia)
+## Special Thanks to [atqnp](https://github.com/atqnp/postcode-malaysia).
+All the data get from him. For more info please visit.
